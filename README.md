@@ -16,4 +16,4 @@
 
 · lease find out the customers who are 'champions', 'Potential customers' and 'need attention' 
 
-![image](https://user-images.githubusercontent.com/102589680/179419142-53b6fe1d-1880-47b0-a741-b87ccd0e813b.png)
+![image](https://www.slidesalad.com/wp-content/uploads/2020/07/RFM-Customer-Segmentation-Model-PowerPoint-Templates-Diagrams-0014.jpg)
